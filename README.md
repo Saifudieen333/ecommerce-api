@@ -148,6 +148,11 @@ A complete Postman collection and environment are included in the `/postman` fol
    - Paste it into `categoryId` Current Value
    - Repeat for `productId`, `cartId`, and `orderId`
 
+## 📮 Postman Collection
+
+**🔗 View Collection Online:** [Click here to open in Postman](https://saifudien-eslam-7082809.postman.co/workspace/Saif-Eldeen-Eslam's-Workspace~4e3dacfe-0299-49e4-8f4c-704084c19f6f/collection/56116588-6d733763-4a25-47f1-8b29-e5497690bedf?action=share&source=copy-link&creator=56116588)
+
+**Alternative:** Download the JSON files from the `/postman` folder and import them manually into Postman.
 
 
 ## 👨‍💻 Author
